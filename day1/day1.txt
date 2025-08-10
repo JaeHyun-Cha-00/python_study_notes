@@ -1,0 +1,31 @@
+Day 1 (Functions and Variables)
+
+CLI : Command Line Interface
+
+Functions :
+
+Arguments :
+
+Bugs :
+
+GUI : 
+
+Return Values : 
+
+Variables : 
+
+Comments : 
+
+(1) #
+
+or
+
+(2) 
+
+"""
+
+"""
+
+Pseudocode :
+
+str : 
