@@ -13,6 +13,9 @@ name = name.title()
 # We can chain!
 name = name.strip().title()
 
+# Split user's name into first name and last name
+first, last = name.split(" ")
+
 #auto-generate space for you
 print("Hello,", name)
 
