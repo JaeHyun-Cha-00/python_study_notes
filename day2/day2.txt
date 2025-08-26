@@ -1,0 +1,13 @@
+** Int **
+
+interactive mode : python + (enter) from the terminal
+
+** Float **
+
+round(number, [, ndigits]) : rounds the number. [, ndigits] is optional
+
+** def ** 
+
+Scope : 
+
+Return : 
