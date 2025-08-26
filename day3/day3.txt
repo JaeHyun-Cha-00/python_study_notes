@@ -1,0 +1,9 @@
+** Conditionals **
+
+elif == else if
+
+and == &&
+
+bool (boolean) : True / False
+
+match 
