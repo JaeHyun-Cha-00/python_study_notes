@@ -1,0 +1,13 @@
+while :
+
+for : 
+
+list : 
+
+range expects integer
+
+len : 
+
+dict : 
+
+None : absense of the value
