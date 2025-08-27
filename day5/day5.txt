@@ -1,0 +1,13 @@
+SyntaxError
+
+try
+
+except
+
+ValueError
+
+NameError
+
+pass
+
+raise
